@@ -25,7 +25,7 @@ window.onscroll = function(){
         nouvil.style.display = 'block';
     }
     if (scrollY >= 113){
-       document.querySelector('.main').style.background = 'linear-gradient(#5c7e9b,#1f081d)';
+       document.querySelector('.main').style.background = 'linear-gradient(#5c7e9b, #1f081d)';
     }
     else{
        document.querySelector('.main').style.background = 'linear-gradient(#350518, #131112)'
